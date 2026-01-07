@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/move-os/static/css/main.773e2079.css",
-    "main.js": "/move-os/static/js/main.09ffb747.js",
+    "main.js": "/move-os/static/js/main.f2b4934f.js",
     "index.html": "/move-os/index.html",
     "main.773e2079.css.map": "/move-os/static/css/main.773e2079.css.map",
-    "main.09ffb747.js.map": "/move-os/static/js/main.09ffb747.js.map"
+    "main.f2b4934f.js.map": "/move-os/static/js/main.f2b4934f.js.map"
   },
   "entrypoints": [
     "static/css/main.773e2079.css",
-    "static/js/main.09ffb747.js"
+    "static/js/main.f2b4934f.js"
   ]
 }
